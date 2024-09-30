@@ -1,1 +1,2 @@
 Hello, World!
+stroka iz osnovnoy vetki
