@@ -1,2 +1,6 @@
 Hello, World!
+
 stroka iz osnovnoy vetki
+
+Izmeneniya v file first.txt v vetke new_branch
+
